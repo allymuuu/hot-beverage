@@ -1,2 +1,2 @@
 # hot-beverage
-A simple web app to personally review hot drinks I've tried
+A simple web app to personally review hot drinks I've tried (on pause)
